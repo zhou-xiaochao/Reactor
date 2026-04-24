@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.a
+*.out
+*.so
+.vscode/
+.idea/
+.DS_Store
+config.json
